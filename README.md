@@ -42,38 +42,165 @@
   </a>
 </p>
 
-## 🚀 Linguagens e Tecnologias que mais utilizo
+---
+
+# << A.L.N/>-Development
+
+<div align="center">
+  <img src="https://img.shields.io/badge/Status-Ativo-brightgreen?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/Foco-Desenvolvimento-blue?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/Especialidade-Game%20Servers-orange?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/Plataforma-Full%20Stack-purple?style=for-the-badge"/>
+</div>
 
 ---
 
-### 🛠️ Ferramentas & DevOps
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=docker,postman,git,github,figma,vercel,cypress,apple,windows,vscode,idea,npm,pnpm,bash,linux,heroku,netlify,azure,aws,gcp" />
-</p>
+## 🎯 Sobre a Organização
 
-### 🖥️ Back-end
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=nodejs,express,java,spring,maven,php,python,django,typescript,prisma,c,cpp,cs,ruby,go,graphql,fastapi,laravel" />
-</p>
+**<< A.L.N/>-Development** é uma organização dedicada ao desenvolvimento de soluções inovadoras, com foco especial em:
 
-### 🎨 Front-end
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=html,css,js,react,next,vite,tailwind,jquery,bootstrap,sass,styledcomponents,angular,vue,redux,materialui" />
-</p>
+- 📚 **Trabalhos Acadêmicos** - Projetos da faculdade de Análise e Desenvolvimento de Sistemas
+- 🎮 **Game Server Development** - Servidores privados do Lineage 2 com source própria
+- 🔧 **Mods e Customizações** - Desenvolvimento de modificações para jogos
+- 🌐 **Sistemas Web** - Sites, aplicações web e APIs
+- 📱 **Desenvolvimento Mobile** - Aplicativos Android e iOS
+- 🚀 **Inovação Tecnológica** - Projetos experimentais e soluções criativas
 
-### 🗄️ Database
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=mysql,postgresql,sqlite,mongodb,firebase,redis,oracle,realm" />
-</p>
+---
 
-### 📱 Mobile
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=androidstudio,swift,kotlin,flutter,dart,reactnative" />
-</p>
+## 👨‍💻 Desenvolvedor Principal
 
-### ☁️ Cloud & Outros
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=aws,gcp,azure,heroku,netlify,vercel,cloudflare,nginx" />
-</p>
+<div align="center">
+  <img src="https://avatars.githubusercontent.com/ALN2025" width="150" style="border-radius: 50%;">
+  
+  ### Anderson Luis do Nascimento
+  **DEV ⩿ A.L.N/⪀**
+  
+  Graduando em **Análise e Desenvolvimento de Sistemas** pela UCS
+  
+  [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/anderson-nascimento-22305931b)
+  [![Portfólio](https://img.shields.io/badge/Portfólio-24292F?style=for-the-badge&logo=github&logoColor=white)](https://aocubo.dev.br)
+</div>
 
---- 
+---
+
+## 🛠️ Tecnologias e Ferramentas
+
+### 🎮 Game Development
+<div align="center">
+  <img src="https://skillicons.dev/icons?i=java,spring,maven,gradle,docker,git,github" />
+</div>
+
+### 🌐 Web Development
+<div align="center">
+  <img src="https://skillicons.dev/icons?i=html,css,js,react,nodejs,express,php,python,django" />
+</div>
+
+### 📱 Mobile Development
+<div align="center">
+  <img src="https://skillicons.dev/icons?i=androidstudio,swift,kotlin,flutter,dart" />
+</div>
+
+### 🗄️ Database & Cloud
+<div align="center">
+  <img src="https://skillicons.dev/icons?i=mysql,postgresql,mongodb,firebase,aws,azure,heroku" />
+</div>
+
+---
+
+## 📚 Projetos Acadêmicos
+
+### 🎓 UCS - Análise e Desenvolvimento de Sistemas
+- **Sistema de Gerenciamento de Conexão com Banco de Dados**
+  - Implementação de padrões DAO e POJO
+  - Conexão com PostgreSQL e MySQL
+  - Interface gráfica com JavaFX
+  
+- **Projetos Integradores**
+  - Sistemas para gerenciamento escolar
+  - Aplicação de conceitos de POO e arquitetura de software
+  - Desenvolvimento de soluções práticas para problemas reais
+
+---
+
+## 🎮 Lineage 2 Development
+
+### 🚀 Source Proprietária
+- **Mais de 4 anos de experiência** em desenvolvimento de servidores privados
+- **Source própria em constante evolução** com implementação de novas funcionalidades
+- **Sistema de logging profissional** e scripts de inicialização eficientes
+- **Compatibilidade total com UTF-8** e otimizações de performance
+
+### 🔧 Mods e Customizações
+- **Sistemas de proteção avançados**
+- **Eventos automáticos** e funcionalidades customizadas
+- **Scripts de administração** e ferramentas de gestão
+- **Otimizações de gameplay** e balanceamento
+
+---
+
+## 🌐 Sistemas Web e Mobile
+
+### 💻 Desenvolvimento Web
+- **Sites responsivos** e aplicações web modernas
+- **APIs RESTful** e integração com bancos de dados
+- **Sistemas de autenticação** e controle de acesso
+- **Dashboards administrativos** e painéis de controle
+
+### 📱 Aplicações Mobile
+- **Apps Android nativos** com Kotlin/Java
+- **Desenvolvimento iOS** com Swift
+- **Aplicações híbridas** com React Native/Flutter
+- **Integração com APIs** e serviços backend
+
+---
+
+## 📊 Estatísticas da Organização
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=ALN2025&show_icons=true&theme=radical" alt="GitHub Stats">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ALN2025&theme=radical" alt="GitHub Streak">
+</div>
+
+---
+
+## 🎯 Objetivos
+
+- ✅ **Compartilhar conhecimento** através de projetos open source
+- ✅ **Documentar experiências** de desenvolvimento de game servers
+- ✅ **Criar soluções inovadoras** para problemas reais
+- ✅ **Contribuir para a comunidade** de desenvolvedores
+- ✅ **Evoluir constantemente** com novas tecnologias
+
+---
+
+## 🤝 Contribuições
+
+Esta organização está aberta para:
+- **Feedback e sugestões** sobre projetos
+- **Colaborações** em projetos open source
+- **Discussões técnicas** sobre game development
+- **Compartilhamento de conhecimento** e experiências
+
+---
+
+## 📞 Contato
+
+<div align="center">
+  <a href="https://www.linkedin.com/in/anderson-nascimento-22305931b">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+  </a>
+  <a href="https://aocubo.dev.br">
+    <img src="https://img.shields.io/badge/Website-000000?style=for-the-badge&logo=About.me&logoColor=white"/>
+  </a>
+  <a href="mailto:seuemail@email.com">
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+  </a>
+</div>
+
+---
+
+<div align="center">
+  <p><em>"Transformando desafios em soluções inovadoras"</em></p>
+  <p><strong>DEV ⩿ A.L.N/⪀</strong></p>
+</div> 
